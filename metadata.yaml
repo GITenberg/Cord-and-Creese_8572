@@ -1,0 +1,29 @@
+_repo: Cord-and-Creese_8572
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Mille, James
+    aliases:
+    - Mille, James de
+    - DeMille, James
+    birthdate: 1833
+    deathdate: 1880
+    gutenberg_agent_id: '1482'
+    url: http://www.gutenberg.org/2009/agents/1482
+    wikipedia: http://en.wikipedia.org/wiki/James_De_Mille
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8572'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- GITenberg
+title: Cord and Creese
+url: http://www.gutenberg.org/ebooks/8572
